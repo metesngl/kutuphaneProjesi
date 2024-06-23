@@ -7,7 +7,7 @@ namespace kutuphaneProjesi.Controllers
     {
         private static List<User> users = new List<User>
         {
-            new User { Id = 1, Username = "bus", Password = "a123" },
+            new User { Id = 1, Username = "bu", Password = "a123" },
             new User { Id = 2, Username = "mete", Password = "b123" }
         };
 
